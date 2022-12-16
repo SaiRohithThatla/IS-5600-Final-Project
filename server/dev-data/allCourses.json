@@ -1,0 +1,569 @@
+[
+    {
+        "title": "Angular - The Complete Guide (2023 Edition)",
+        "category": "Angular",
+        "description": "Master Angular and build awesome, reactive web apps with the successor of Angular.js",
+        "instructor": "Maximilian Schwarzmüller",
+        "rating": "4.6",
+        "seats": 21,
+        "available": 1
+    },
+    {
+        "title": "The Complete Angular Course: Beginner to Advanced",
+        "category": "Angular",
+        "description": "The most comprehensive Angular 4 course. Build a real e-commerce app with Angular, Firebase and Bootstrap 4",
+        "instructor": "Mosh Hamedani",
+        "rating": "4.4",
+        "seats": 24,
+        "available": 14
+    },
+    {
+        "title": "Angular & NodeJS - The MEAN Stack Guide [2023 Edition]",
+        "category": "Angular",
+        "description": "Learn how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application",
+        "instructor": "Maximilian Schwarzmüller",
+        "rating": "4.6",
+        "seats": 27,
+        "available": 15
+    },
+    {
+        "title": "Understanding TypeScript - 2023 Edition",
+        "category": "Typescript",
+        "description": "Boost your JavaScript projects with TypeScript: Learn all about core types, generics, TypeScript + React or Node & more!",
+        "instructor": "Maximilian Schwarzmüller",
+        "rating": "4.7",
+        "seats": 19,
+        "available": 17
+    },
+    {
+        "title": "Angular Crash Course for Busy Developers",
+        "category": "Typescript",
+        "description": "Have limited time to learn Angular 4 (Angular 2+)? Take this course and learn Angular in 10 hours!",
+        "instructor": "Mosh Hamedani",
+        "rating": "4.4",
+        "seats": 20,
+        "available": 12
+    },
+    {
+        "title": "Typescript: The Complete Developer's Guide",
+        "category": "Typescript",
+        "description": "Master Typescript by learning popular design patterns and building complex projects.  Includes React and Express!",
+        "instructor": "Stephen Grider",
+        "rating": "4.7",
+        "seats": 21,
+        "available": 8
+    },
+    {
+        "title": "Angular Essentials (Angular 2+ with TypeScript)",
+        "category": "Typescript",
+        "description": "The most efficient way to dive into Angular 2+ if you got limited time or need to refresh the basics!",
+        "instructor": "Maximilian Schwarzmüller",
+        "rating": "4.5",
+        "seats": 23,
+        "available": 23
+    },
+    {
+        "title": "HTML and CSS for Beginners - Build a Website & Launch ONLINE",
+        "category": "HTML",
+        "description": "HTML and CSS for Beginners  course will give your all the knowledge you need to master HTML and CSS easily and quickly.",
+        "instructor": "Edwin Diaz",
+        "rating": "4.5",
+        "seats": 30,
+        "available": 5
+    },
+    {
+        "title": "Web Design for Beginners: Real World Coding in HTML & CSS",
+        "category": "HTML",
+        "description": "Launch a career as a web designer by learning HTML5, CSS3, responsive design, Sass and more!",
+        "instructor": "Brad Schiff",
+        "rating": "4.6",
+        "seats": 28,
+        "available": 4
+    },
+    {
+        "title": "Build Websites from Scratch with HTML & CSS",
+        "category": "HTML",
+        "description": "Learn Web Development Essentials and Become a Web Developer From Scratch in this Complete HTML & CSS Beginner's Course",
+        "instructor": "Brad Hussey",
+        "rating": "4.6",
+        "seats": 21,
+        "available": 2
+    },
+    {
+        "title": "Learn HTML - For Beginners",
+        "category": "HTML",
+        "description": "Lean how to create web pages using HTML",
+        "instructor": "YouAccel Training",
+        "rating": "4.3",
+        "seats": 15,
+        "available": 1
+    },
+    {
+        "title": "1 Hour HTML",
+        "category": "HTML",
+        "description": "Learn how to code in HTML in 1 hour. This class is set up for complete beginners!",
+        "instructor": "John Bura",
+        "rating": "4.6",
+        "seats": 15,
+        "available": 6
+    },
+    {
+        "title": "MongoDB - The Complete Developer's Guide 2023",
+        "category": "MongoDB",
+        "description": "Master MongoDB Development for Web & Mobile Apps. CRUD Operations, Indexes, Aggregation Framework - All about MongoDB!",
+        "instructor": "Maximilian Schwarzmüller",
+        "rating": "4.6",
+        "seats": 22,
+        "available": 7
+    },
+    {
+        "title": "The Complete Developers Guide to MongoDB",
+        "category": "MongoDB",
+        "description": "Master MongoDB and Mongoose design with a test-driven approach",
+        "instructor": "Stephen Grider",
+        "rating": "4.3",
+        "seats": 20,
+        "available": 2
+    },
+    {
+        "title": "Full Stack Programming for Complete Beginners in Python",
+        "category": "MongoDB",
+        "description": "Programming for complete beginners in python, along with pyqt5, mongoDB and software engineering basics",
+        "instructor": "Abdul Rauf",
+        "rating": "4.5",
+        "seats": 27,
+        "available": 10
+    },
+    {
+        "title": "Beginner Full Stack Web Development: HTML, CSS, React & Node",
+        "category": "Full Stack Web Development",
+        "description": "Learn web development with HTML, CSS, Bootstrap 4, ES6 React and Node",
+        "instructor": "Mark Wahlbeck",
+        "rating": "4.5",
+        "seats": 30,
+        "available": 6
+    },
+    {
+        "title": "The Ultimate 2022 Fullstack Web Development Bootcamp",
+        "category": "Full Stack Web Development",
+        "description": "Become a fullstack web developer (and get a job) by taking this ONE course, even if you've never coded before.",
+        "instructor": "Kane Ezki",
+        "rating": "4.7",
+        "seats": 26,
+        "available": 24
+    },
+    {
+        "title": "React & Django Full Stack: web app, backend API, mobile apps",
+        "category": "Full Stack Web Development",
+        "description": "React single page web app, Django 2 REST API with Python 3, React Native cross platform mobile apps for Android and iOS",
+        "instructor": "Krystian Czekalski",
+        "rating": "4.5",
+        "seats": 30,
+        "available": 23
+    },
+    {
+        "title": "Angular and Spring MVC (Updated: Angular 9 and Spring boot)",
+        "category": "Full Stack Web Development",
+        "description": "Full stack development with Angular and Spring MVC (Updated to Angular 9 and Spring Boot 2)",
+        "instructor": "Bushan Sirgur",
+        "rating": "3.2",
+        "seats": 29,
+        "available": 29
+    },
+    {
+        "title": "Build Ecommerce Website Like Amazon [React & Node & MongoDB]",
+        "category": "Full Stack Web Development",
+        "description": "Become a Senior Web Developer! Build a massive E-commerce app with React, Context, Node, Express, MongoDB, Mongoose",
+        "instructor": "Bassir Jafarzadeh",
+        "rating": "4.5",
+        "seats": 30,
+        "available": 12
+    },
+    {
+        "title": "Angular & Django Full Stack: web, backend API, mobile apps",
+        "category": "Full Stack Web Development",
+        "description": "Angular 6 web app, python Django 2 RESTfull API, Cross platform iOS and Android mobile with NativeScript",
+        "instructor": "Krystian Czekalski",
+        "rating": "4.2",
+        "seats": 29,
+        "available": 5
+    },
+    {
+        "title": "Full-Stack Web Development For Beginners",
+        "category": "Full Stack Web Development",
+        "description": "Learn  Frontend and Backend Web Development Using: HTML, CSS, JAVASCRIPT, NODE, SQL,POSTGRESQL,REACT,RESTful APIs",
+        "instructor": "Bluelime Learning Solutions",
+        "rating": "3.8",
+        "seats": 20,
+        "available": 13
+    },
+    {
+        "title": "The Complete JavaScript Course 2023: From Zero to Expert!",
+        "category": "JavaScript",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "instructor": "Jonas Schmedtmann",
+        "rating": "4.7",
+        "seats": 28,
+        "available": 10
+    },
+    {
+        "title": "JavaScript: Understanding the Weird Parts",
+        "category": "JavaScript",
+        "description": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more.",
+        "instructor": "Anthony Alicea",
+        "rating": "4.8",
+        "seats": 20,
+        "available": 8
+    },
+    {
+        "title": "Modern JavaScript From The Beginning",
+        "category": "JavaScript",
+        "description": "Learn and build projects with pure JavaScript (No frameworks or libraries)",
+        "instructor": "Brad Traversy",
+        "rating": "4.7",
+        "seats": 18,
+        "available": 16
+    },
+    {
+        "title": "JavaScript Basics for Beginners",
+        "category": "JavaScript",
+        "description": "JavaScript - Master the Fundamentals in 6 Hours",
+        "instructor": "Mosh Hamedani",
+        "rating": "4.6",
+        "seats": 15,
+        "available": 13
+    },
+    {
+        "title": "JavaScript - The Complete Guide 2023 (Beginner + Advanced)",
+        "category": "JavaScript",
+        "description": "Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2023.",
+        "instructor": "Maximilian Schwarzmüller",
+        "rating": "4.6",
+        "seats": 29,
+        "available": 17
+    },
+    {
+        "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+        "category": "MERN Stack",
+        "description": "Build and deploy a social network with Node.js, Express, React, Redux & MongoDB. Fully updated April 2019",
+        "instructor": "Brad Traversy",
+        "rating": "4.5",
+        "seats": 29,
+        "available": 3
+    },
+    {
+        "title": "React Front To Back",
+        "category": "MERN Stack",
+        "description": "Learn Modern React 16.8+ Including Hooks, Context API, Full Stack MERN & Redux By Building Real Life Projects",
+        "instructor": "Brad Traversy",
+        "rating": "4.4",
+        "seats": 15,
+        "available": 8
+    },
+    {
+        "title": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+        "category": "MERN Stack",
+        "description": "Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course.",
+        "instructor": "Maximilian Schwarzmüller",
+        "rating": "4.5",
+        "seats": 29,
+        "available": 0
+    },
+    {
+        "title": "MERN eCommerce From Scratch",
+        "category": "MERN Stack",
+        "description": "Build an eCommerce platform from the ground up with React, Redux, Express & MongoDB",
+        "instructor": "Brad Traversy",
+        "rating": "4.5",
+        "seats": 15,
+        "available": 0
+    },
+    {
+        "title": "MERN Stack Master Course - Building your own Instagram",
+        "category": "MERN Stack",
+        "description": "Build Your own Instagram with React, Express, Node.js & MongoDB",
+        "instructor": "Mukesh Phulwani",
+        "rating": "4.4",
+        "seats": 27,
+        "available": 26
+    },
+    {
+        "title": "MERN Stack Course 2022 -  MongoDB, Express, React and NodeJS",
+        "category": "MERN Stack",
+        "description": "Build Full Stack Application from Scratch with MongoDB, Express, React and NodeJS",
+        "instructor": "John Smilga",
+        "rating": "4.6",
+        "seats": 30,
+        "available": 0
+    },
+    {
+        "title": "React Redux Ecommerce - Master MERN Stack Web Development",
+        "category": "MERN Stack",
+        "description": "Build one of The Biggest Real World MERN Stack E-commerce Project using React Redux Node MongoDB and Ant Design",
+        "instructor": "Ryan Dhungel",
+        "rating": "4.2",
+        "seats": 28,
+        "available": 21
+    },
+    {
+        "title": "The Web Developer Bootcamp 2022",
+        "category": "Web Development",
+        "description": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+        "instructor": "Colt Steele",
+        "rating": "4.7",
+        "seats": 15,
+        "available": 7
+    },
+    {
+        "title": "The Complete 2023 Web Development Bootcamp",
+        "category": "Web Development",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+        "instructor": "Dr. Angela Yu",
+        "rating": "4.7",
+        "seats": 21,
+        "available": 15
+    },
+    {
+        "title": "The Complete Web Developer Course 3.0",
+        "category": "Web Development",
+        "description": "Learn Web Development in 2022! Build apps, website, projects using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
+        "instructor": "Rob Percival",
+        "rating": "4.6",
+        "seats": 18,
+        "available": 10
+    },
+    {
+        "title": "The Complete Web Developer in 2023: Zero to Mastery",
+        "category": "Web Development",
+        "description": "Learn to code and become a Web Developer in 2023 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
+        "instructor": "Andrei Neagoie",
+        "rating": "4.7",
+        "seats": 25,
+        "available": 2
+    },
+    {
+        "title": "Ultimate Web Designer & Web Developer Course",
+        "category": "Web Development",
+        "description": "Become a Full-Stack Web Designer in 2022 - Learn Everything from Web Design Fundamentals to Front-End Web Development",
+        "instructor": "Brad Hussey",
+        "rating": "4.6",
+        "seats": 22,
+        "available": 18
+    },
+    {
+        "title": "Pre-Programming: Everything you need to know before you code",
+        "category": "Web Development",
+        "description": "Increase your chance of success learning to code and communicating with other developers",
+        "instructor": "Evan Kimbrell",
+        "rating": "4.7",
+        "seats": 30,
+        "available": 5
+    },
+    {
+        "title": "The Advanced Web Developer Bootcamp",
+        "category": "Web Development",
+        "description": "Learn React 16, Redux, D3, ES2015, Testing, CSS Flexbox, Animations, SVG, AJAX, and more!",
+        "instructor": "Colt Steele",
+        "rating": "4.5",
+        "seats": 17,
+        "available": 0
+    },
+    {
+        "title": "The Complete Front-End Web Development Course",
+        "category": "Front End Web Development",
+        "description": "Get started as a front-end web developer using HTML, CSS, JavaScript, jQuery, and Bootstrap!",
+        "instructor": "Joseph Delgadillo",
+        "rating": "4.3",
+        "seats": 22,
+        "available": 1
+    },
+    {
+        "title": "Front End Web Development Ultimate Guide",
+        "category": "Front End Web Development",
+        "description": "You'll learn all the fundamentals of Front-End Web Development and how you can  Use them to start creating websites!",
+        "instructor": "Learn Tech Plus",
+        "rating": "4.1",
+        "seats": 20,
+        "available": 0
+    },
+    {
+        "title": "Microfrontends with React: A Complete Developer's Guide",
+        "category": "Front End Web Development",
+        "description": "Build incredibly scalable apps with a microfrontend architecture",
+        "instructor": "Stephen Grider",
+        "rating": "4.7",
+        "seats": 27,
+        "available": 16
+    },
+    {
+        "title": "Complete Responsive Web Development: 4 courses in 1",
+        "category": "Front End Web Development",
+        "description": "Master yourself in HTML5, CSS3, Bootstrap, jQuery and responsive web development",
+        "instructor": "Creative Online School",
+        "rating": "4.2",
+        "seats": 25,
+        "available": 18
+    },
+    {
+        "title": "Learn Complete Front-End Web Development Course (2022)",
+        "category": "Front End Web Development",
+        "description": "Learn Complete Front End Web Development with HTML5, CSS3, Bootstrap 5, JavaScript, ECMAScript 6, Angular & React JS",
+        "instructor": "Fatah Gabrial",
+        "rating": "4.4",
+        "seats": 27,
+        "available": 10
+    },
+    {
+        "title": "HTML, CSS, & Bootstrap - Certification Course for Beginners",
+        "category": "Front End Web Development",
+        "description": "A Complete Guide for Beginners interested in learning HTML, CSS, & Bootstrap for Building Stylish, Responsive Web Pages.",
+        "instructor": "YouAccel Training",
+        "rating": "4.5",
+        "seats": 29,
+        "available": 21
+    },
+    {
+        "title": "The Complete Node.js Developer Course (3rd Edition)",
+        "category": "Node.Js",
+        "description": "Learn Node.js by building real-world applications with Node JS, Express, MongoDB, Jest, and more!",
+        "instructor": "Andrew Mead",
+        "rating": "4.6",
+        "seats": 25,
+        "available": 3
+    },
+    {
+        "title": "Learn and Understand NodeJS",
+        "category": "Node.Js",
+        "description": "Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more.",
+        "instructor": "Anthony Alicea",
+        "rating": "4.6",
+        "seats": 15,
+        "available": 9
+    },
+    {
+        "title": "Angular & NodeJS - The MEAN Stack Guide [2023 Edition]",
+        "category": "Node.Js",
+        "description": "Learn how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application",
+        "instructor": "Maximilian Schwarzmüller",
+        "rating": "4.6",
+        "seats": 27,
+        "available": 2
+    },
+    {
+        "title": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2023",
+        "category": "Node.Js",
+        "description": "Master Node by building a real-world RESTful API and web app (with authentication, Node.js security, payments & more)",
+        "instructor": "Jonas Schmedtmann",
+        "rating": "4.7",
+        "seats": 30,
+        "available": 19
+    },
+    {
+        "title": "Node with React: Fullstack Web Development",
+        "category": "Node.Js",
+        "description": "Build and deploy fullstack web apps with NodeJS, React, Redux, Express, and MongoDB.",
+        "instructor": "Stephen Grider",
+        "rating": "4.7",
+        "seats": 21,
+        "available": 2
+    },
+    {
+        "title": "Modern React with Redux [2023 Update]",
+        "category": "Redux Framework",
+        "description": "Master React and Redux Toolkit.  Includes RTK Query, tons of custom hooks, and more!  Course 100% Updated November 2022",
+        "instructor": "Stephen Grider",
+        "rating": "4.7",
+        "seats": 18,
+        "available": 12
+    },
+    {
+        "title": "Advanced React and Redux",
+        "category": "Redux Framework",
+        "description": "Walkthroughs on advanced React v16.6.3 and Redux v4.0.0 - Authentication, Testing, Middlewares, HOC's, and Deployment",
+        "instructor": "Stephen Grider",
+        "rating": "4.4",
+        "seats": 15,
+        "available": 13
+    },
+    {
+        "title": "React JS Web Development - The Essentials Bootcamp",
+        "category": "Redux Framework",
+        "description": "Updated for 2022-23: React.js essentials bootcamp - React Core, Router, Redux, Hooks, in-depth JS, + detailed guides!",
+        "instructor": "David Joseph Katz",
+        "rating": "4.5",
+        "seats": 25,
+        "available": 5
+    },
+    {
+        "title": "The Complete React Native + Hooks Course",
+        "category": "React Native",
+        "description": "Understand React Native with Hooks, Context, and React Navigation.",
+        "instructor": "Stephen Grider",
+        "rating": "4.5",
+        "seats": 20,
+        "available": 13
+    },
+    {
+        "title": "React Native - The Practical Guide [2023]",
+        "category": "React Native",
+        "description": "Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux",
+        "instructor": "Maximilian Schwarzmüller",
+        "rating": "4.7",
+        "seats": 20,
+        "available": 7
+    },
+    {
+        "title": "React Native: Advanced Concepts",
+        "category": "React Native",
+        "description": "Master the advanced topics of React Native: Animations, Maps, Notifications, Navigation and More!",
+        "instructor": "Stephen Grider",
+        "rating": "4.4",
+        "seats": 15,
+        "available": 4
+    },
+    {
+        "title": "Complete React Native in 2023: Zero to Mastery (with Hooks)",
+        "category": "React Native",
+        "description": "Master React Native for iOS and Android Mobile App Development using JavaScript. Build a modern e-commerce mobile app!",
+        "instructor": "Andrei Neagoie",
+        "rating": "4.5",
+        "seats": 29,
+        "available": 14
+    },
+    {
+        "title": "Build Responsive Real-World Websites with HTML and CSS",
+        "category": "CSS",
+        "description": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid",
+        "instructor": "Jonas Schmedtmann",
+        "rating": "4.8",
+        "seats": 27,
+        "available": 0
+    },
+    {
+        "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+        "category": "CSS",
+        "description": "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",
+        "instructor": "Jonas Schmedtmann",
+        "rating": "4.8",
+        "seats": 29,
+        "available": 0
+    },
+    {
+        "title": "HTML and CSS for Beginners - Build a Website & Launch ONLINE",
+        "category": "CSS",
+        "description": "HTML and CSS for Beginners  course will give your all the knowledge you need to master HTML and CSS easily and quickly.",
+        "instructor": "Edwin Diaz",
+        "rating": "4.5",
+        "seats": 30,
+        "available": 10
+    },
+    {
+        "title": "Modern HTML & CSS From The Beginning (Including Sass)",
+        "category": "CSS",
+        "description": "Build modern responsive websites & UIs with HTML5, CSS3 & Sass! Learn Flex & CSS Grid",
+        "instructor": "Brad Traversy",
+        "rating": "4.7",
+        "seats": 26,
+        "available": 16
+    }
+]

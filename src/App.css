@@ -1,0 +1,73 @@
+/* html, body, #root {
+  min-height: 100vh;
+} */
+
+.app-container {
+  padding: 20px;
+  height: 100%;
+  min-height: 100vh;
+}
+
+.box-container {
+  height: 100%;
+  background: #f7f7f7;
+  padding-bottom: 40px;
+  min-height: calc(100vh - 45px);
+}
+
+.header-container {
+  display: flex;
+}
+
+.no-courses-card .chakra-skeleton {
+  width: 100%;
+  background: linear-gradient(0.25turn, transparent, #fff, transparent), linear-gradient(#eee, #eee), radial-gradient(38px circle at 19px 19px, #eee 50%, transparent 51%),  linear-gradient(#eee, #eee);
+  background-repeat: no-repeat;
+  background-position: -315px 0, 0 0, 0px 190px, 50px 195px; 
+  animation: loading 1.5s infinite;
+  animation: 0.8s linear infinite progress-fade
+}
+
+@keyframes progress-fade {
+  to {
+    background-position: 315px 0, 0 0, 0 190px, 50px 195px;
+  }
+}
+
+@media (max-width: 980px) {
+  .chakra-container > div:last-child {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)) !important;
+  }
+}
+
+@media (max-width: 580px) {
+  .app-container {
+    padding: 0;
+  }
+  .header-container {
+    flex-direction: column;
+  }
+  .header-container > div > p.chakra-text {
+    margin: 10px 0;
+  }
+  .chakra-container > div:last-child {
+    grid-template-columns: 1fr !important;
+    padding: 2rem;
+    place-items: center;
+  }
+  .chakra-container > div:last-child > div {
+    width: 100%;
+  }
+  .chakra-container div:last-child div.chakra-card:first-child {
+    margin-top: 20px;
+  }
+  .chakra-card__header {
+    padding: 0.5rem !important;
+  }
+  .chakra-card > div {
+    width: 100%;
+  }
+  .chakra-card__header hr {
+    width: 95%;
+  }
+}

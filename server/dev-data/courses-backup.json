@@ -1,0 +1,149 @@
+[
+    {
+        "title": "Angular - The Complete Guide (2023 Edition)",
+        "description": "Master Angular and build awesome, reactive web apps with the successor of Angular.js",
+        "instructor": "Maximilian Schwarzmüller",
+        "seats": 21,
+        "available": 1
+    },
+    {
+        "title": "Angular Essentials (Angular 2+ with TypeScript)",
+        "description": "The most efficient way to dive into Angular 2+ if you got limited time or need to refresh the basics!",
+        "instructor": "Maximilian Schwarzmüller",
+        "seats": 23,
+        "available": 23
+    },
+    {
+        "title": "Web Design for Beginners: Real World Coding in HTML & CSS",
+        "description": "Launch a career as a web designer by learning HTML5, CSS3, responsive design, Sass and more!",
+        "instructor": "Brad Schiff",
+        "seats": 28,
+        "available": 14
+    },
+    {
+        "title": "Build Websites from Scratch with HTML & CSS",
+        "description": "Learn Web Development Essentials and Become a Web Developer From Scratch in this Complete HTML & CSS Beginner's Course",
+        "instructor": "Brad Hussey",
+        "seats": 21,
+        "available": 2
+    },
+    {
+        "title": "Learn HTML - For Beginners",
+        "description": "Lean how to create web pages using HTML",
+        "instructor": "YouAccel Training",
+        "seats": 15,
+        "available": 15
+    },
+    {
+        "title": "The Complete Developers Guide to MongoDB",
+        "description": "Master MongoDB and Mongoose design with a test-driven approach",
+        "instructor": "Stephen Grider",
+        "seats": 20,
+        "available": 10
+    },
+    {
+        "title": "Angular and Spring MVC (Updated: Angular 9 and Spring boot)",
+        "description": "Full stack development with Angular and Spring MVC (Updated to Angular 9 and Spring Boot 2)",
+        "instructor": "Bushan Sirgur",
+        "seats": 29,
+        "available": 29
+    },
+    {
+        "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+        "description": "Build and deploy a social network with Node.js, Express, React, Redux & MongoDB. Fully updated April 2019",
+        "instructor": "Brad Traversy",
+        "seats": 29,
+        "available": 15
+    },
+    {
+        "title": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+        "description": "Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course.",
+        "instructor": "Maximilian Schwarzmüller",
+        "seats": 29,
+        "available": 0
+    },
+    {
+        "title": "MERN eCommerce From Scratch",
+        "description": "Build an eCommerce platform from the ground up with React, Redux, Express & MongoDB",
+        "instructor": "Brad Traversy",
+        "seats": 15,
+        "available": 0
+    },
+    {
+        "title": "MERN Stack Course 2022 -  MongoDB, Express, React and NodeJS",
+        "description": "Build Full Stack Application from Scratch with MongoDB, Express, React and NodeJS",
+        "instructor": "John Smilga",
+        "seats": 30,
+        "available": 0
+    },
+    {
+        "title": "The Complete Web Developer in 2023: Zero to Mastery",
+        "description": "Learn to code and become a Web Developer in 2023 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
+        "instructor": "Andrei Neagoie",
+        "seats": 25,
+        "available": 10
+    },
+    {
+        "title": "The Advanced Web Developer Bootcamp",
+        "description": "Learn React 16, Redux, D3, ES2015, Testing, CSS Flexbox, Animations, SVG, AJAX, and more!",
+        "instructor": "Colt Steele",
+        "seats": 17,
+        "available": 0
+    },
+    {
+        "title": "The Complete Front-End Web Development Course",
+        "description": "Get started as a front-end web developer using HTML, CSS, JavaScript, jQuery, and Bootstrap!",
+        "instructor": "Joseph Delgadillo",
+        "seats": 22,
+        "available": 1
+    },
+    {
+        "title": "Front End Web Development Ultimate Guide",
+        "description": "You'll learn all the fundamentals of Front-End Web Development and how you can  Use them to start creating websites!",
+        "instructor": "Learn Tech Plus",
+        "seats": 20,
+        "available": 0
+    },
+    {
+        "title": "The Complete Node.js Developer Course (3rd Edition)",
+        "description": "Learn Node.js by building real-world applications with Node JS, Express, MongoDB, Jest, and more!",
+        "instructor": "Andrew Mead",
+        "seats": 25,
+        "available": 13
+    },
+    {
+        "title": "Angular & NodeJS - The MEAN Stack Guide [2023 Edition]",
+        "description": "Learn how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application",
+        "instructor": "Maximilian Schwarzmüller",
+        "seats": 27,
+        "available": 2
+    },
+    {
+        "title": "Node with React: Fullstack Web Development",
+        "description": "Build and deploy fullstack web apps with NodeJS, React, Redux, Express, and MongoDB.",
+        "instructor": "Stephen Grider",
+        "seats": 21,
+        "available": 7
+    },
+    {
+        "title": "React Native: Advanced Concepts",
+        "description": "Master the advanced topics of React Native: Animations, Maps, Notifications, Navigation and More!",
+        "instructor": "Stephen Grider",
+        "seats": 15,
+        "available": 4
+    },
+    {
+        "title": "Build Responsive Real-World Websites with HTML and CSS",
+        "description": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid",
+        "instructor": "Jonas Schmedtmann",
+        "seats": 27,
+        "available": 0
+    },
+    {
+        "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+        "description": "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",
+        "instructor": "Jonas Schmedtmann",
+        "seats": 29,
+        "available": 0
+    }
+]

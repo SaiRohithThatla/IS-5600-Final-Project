@@ -1,0 +1,13 @@
+// USER
+export const SAVE_USER = 'SAVE_USER';
+export const CLEAR_USER = 'CLEAR_USER'
+
+// COURSE
+export const SAVE_COURSES = 'SAVE_COURSES';
+export const CLEAR_COURSES = 'CLEAR_COURSES';
+export const ENROLL_COURSE = 'ENROLL_COURSE';
+export const EDIT_COURSE = 'EDIT_COURSE';
+
+// CATALOG
+export const SAVE_MY_COURSES = 'SAVE_MY_COURSES';
+export const CLEAR_MY_COURSE = 'CLEAR_MY_COURSE';
