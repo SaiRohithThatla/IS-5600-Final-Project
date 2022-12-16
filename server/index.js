@@ -46,7 +46,7 @@ app.get('*', (req, res) => {
 	});
 });
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 8081;
 
 // Connect to MongoDb database though mongoose driver
 const { DB_STRING, DB_PASSWORD, DB_NAME } = process.env;
