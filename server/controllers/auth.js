@@ -131,11 +131,12 @@ const protect = async (req, res, next) => {
 		// TOKEN VERIFICATION PASSED!
 		// Grant access to current user
 		req.user = currentUser;
+
+		// proceed to next once user is verified
+		next();
 	} catch (e) {
 		console.log(e);
 	}
-
-	next();
 };
 
 /**
