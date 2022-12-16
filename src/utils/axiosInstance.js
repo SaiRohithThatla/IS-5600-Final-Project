@@ -6,7 +6,7 @@ const { host, hostname, protocol } = window.location;
  * Create axios instance with baseurl
  */
 const axiosInstance = axios.create({
-    baseURL: process.env.REACT_APP_NODE_ENV === 'production' ? `${protocol}//${host}/api` : `${protocol}//${hostname}:5000/api`
+    baseURL: process.env.REACT_APP_NODE_ENV === 'production' ? `${protocol}//${host}/api` : `${protocol}//${hostname}:8081/api`
 })
 
 /**
