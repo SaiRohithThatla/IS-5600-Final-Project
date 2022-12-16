@@ -23,7 +23,7 @@ A MERN stack web application to enroll into online courses
 ### Installation
 
 ```
-git clone https://github.com/SaiRohithThatla/Upskill
+git clone https://github.com/SaiRohithThatla/IS-5600-Final-Project
 cd Upskill
 npm install
 ```
